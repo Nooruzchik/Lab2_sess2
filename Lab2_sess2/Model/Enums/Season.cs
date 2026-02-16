@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab2_sess2.Model.Enums
 {
-    internal class Season
+    public enum Season
     {
+        winter,
+        spring,
+        summer,
+        autumn
     }
 }

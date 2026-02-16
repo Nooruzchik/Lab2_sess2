@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab2_sess2.Model.Enums
 {
-    internal class EducationForm
+    public enum EducationForm
     {
+        fullTime,
+        correspondence, 
+        evening, 
+        distanceLearning
     }
 }

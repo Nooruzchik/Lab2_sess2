@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Lab2_sess2.Model.Enums
 {
-    internal class Manufacture
+    public enum Manufacture
     {
+        Samsung,
+        Apple,
+        Xiaomi,
+        Honor,
+        Oppo,
+        Poco
     }
 }

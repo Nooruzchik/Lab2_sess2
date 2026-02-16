@@ -9,6 +9,11 @@ namespace Lab2_sess2.Model.Enums
     
         public enum Color
         {
-
+            Red,
+            Blue,
+            Pink,
+            Yellow,
+            Purple,
+            Green
         }
 }
