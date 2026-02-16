@@ -7,11 +7,8 @@ using System.Threading.Tasks;
 namespace Lab2_sess2.Model.Enums
 {
 
-    
 
-    internal class Genre
-    {
-        public enum Gerge
+        public enum Gerne
         {
             Comedy,
             Drama,
@@ -20,5 +17,4 @@ namespace Lab2_sess2.Model.Enums
             Horror,
             Blockbuster
         }
-    }
 }

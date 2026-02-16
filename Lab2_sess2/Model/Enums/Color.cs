@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lab2_sess2.Model.Enums
 {
-    internal class Color
-    {
-    }
+    
+        public enum Color
+        {
+
+        }
 }
